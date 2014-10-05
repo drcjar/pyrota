@@ -1,0 +1,16 @@
+,m1,m2,m3,z1,m4,m5,m6,M1.2,M2.2,M3.2,z2,M4.2,M5.2,M6.2,float
+0,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15
+1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1
+2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2
+3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3
+4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4
+5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5
+6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6
+7,name8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7
+8,name9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8
+9,name10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9
+10,name11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10
+11,name12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11
+12,name13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12
+13,name14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13
+14,name15,name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14
