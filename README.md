@@ -3,4 +3,4 @@ pyrota
 
 Pythonic medical rota
 
-View teh codes here http://nbviewer.ipython.org/github/drcjar/pyrota/blob/master/pyrota.ipynb
+View teh codes here https://github.com/drcjar/pyrota/blob/master/marysrota.ipynb
