@@ -2,12 +2,15 @@
 Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
 First Floor Consultant,IC,IC,IC,IC,IC,,
 First Floor Registrar (#1028),Chris,Carl,Carl,,Carl,,
-"First Floor Juniors (#1656, 1016)",,['Nicola'],"['Nicola', 'Nick']","['Nicola', 'Nick']","['Nicola', 'Nick']",,
+"First Floor Juniors (#1656, 1016)","['Nicola', 'Nick']","['Nicola', 'Nick']","['Nicola', 'Nick']","['Nicola', 'Nick']","['Nicola', 'Nick']",,
 Manvers Consultant,WARDS: SB,WARDS: SB,WARDS: SB,WARDS: SB,WARDS: SB,,
 Second Floor Registrar (#1238),Justin,Justin,Justin,,Justin,,
-"Second Floor Juniors (#1208, 1138)",,"['Saman', 'Vytas']","['Saman', 'Alix', 'Vytas']","['Saman', 'Alix', 'Vytas']","['Saman', 'Alix', 'Vytas']",,
-Clinic Registrar,,,,,,,
-Nights,,,,,,['Alix'],['Alix']
+"Second Floor Juniors (#1208, 1138)",['Vytas'],"['Saman', 'Vytas']","['Saman', 'Alix', 'Vytas']","['Saman', 'Alix', 'Vytas']","['Saman', 'Vytas']",,
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,
+Afternoon Clinic : Reg,,,General : no reg,Fast track : no reg,,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,Chris,Chris,,,,
+Nights,,,,,['Alix'],['Alix'],['Alix']
 Zero Days,"['Reza', 'Sophie', 'Cat']","['Reza', 'Sophie', 'Cat']","['Reza', 'Sophie', 'Cat']","['Sophie', 'Cat']","['Reza', 'Sophie', 'Cat']",,
-Annual Leave,['Alix'],,,,,,
-Study Leave,,,,"['Chris', 'Carl', 'Justin', 'Reza']",['Chris'],,
+Annual Leave,"['Alix', 'Erin']","['Alix', 'Erin']",['Erin'],['Erin'],"['Chris', 'Erin']",,
+Study Leave,,,,"['MB', 'Chris', 'Carl', 'Justin', 'Reza']",,,
