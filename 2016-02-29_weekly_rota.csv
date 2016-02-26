@@ -1,0 +1,16 @@
+,2016-02-29,2016-03-01,2016-03-02,2016-03-03,2016-03-04,2016-03-05,2016-03-06
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,IC,IC,IC,IC,IC,,
+First Floor Registrar (#1028),Justin(post-take),Chris,Chris,Reza(on-call),Reza(post-take),,
+"First Floor Juniors (#1656, 1016)","['Sarah', 'Madeleine(post-take)']","['Sarah', 'Rohini']","['Sarah', 'Rohini']","['Shaz', 'Rohini']","['Shaz', 'Sarah', 'Rohini']",,
+Manvers Consultant,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,,
+Second Floor Registrar (#1238),,,,Chris,Chris,Carl,Carl
+"Second Floor Juniors (#1208, 1138)","['Becky', 'Chloe']","['Becky', 'Chloe']","['Becky', 'Chloe']","['Becky', 'Chloe']",['Becky'],['Shaz'],['Shaz']
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,
+Afternoon Clinic : Reg,,,General : no reg,Fast track : no reg,,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,,,,,,
+Nights,['Tanya'],['Tanya'],['Tanya'],['Tanya'],['Chloe'],['Chloe'],['Chloe']
+Zero Days,['Rohini'],['Madeleine'],['Madeleine'],['Madeleine'],"['Tanya', 'Madeleine']",,
+Annual Leave,"['WO', 'CR', 'Shaz', 'Thomas']","['WO', 'Carl', 'Shaz', 'Thomas']","['WO', 'Carl', 'Shaz', 'Thomas']","['WO', 'Carl', 'Sarah', 'Thomas']","['WO', 'Carl', 'Thomas']",,
+Study Leave,"['Carl', 'Reza']",,['SB'],['SB'],,,

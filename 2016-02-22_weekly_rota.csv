@@ -1,0 +1,16 @@
+,2016-02-22,2016-02-23,2016-02-24,2016-02-25,2016-02-26,2016-02-27,2016-02-28
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,CR,CR,CR,IC (MW is on-call),IC,IC,IC
+First Floor Registrar (#1028),Justin(on-call),Justin(post-take),,Chris,Justin(on-call),Justin(post-take),Justin(on-call)
+"First Floor Juniors (#1656, 1016)","['Sarah', 'Madeleine(on-call)']","['Sarah', 'Nicola(post-take)', 'Madeleine(post-take)']","['Sarah', 'Madeleine(on-call)']","['Nicola', 'Madeleine(post-take)']","['Sarah', 'Nicola', 'Madeleine(on-call)']","['Sarah', 'Madeleine(on-call)']","['Sarah', 'Madeleine(on-call)']"
+Manvers Consultant,WARDS: TB (IAN),WARDS: TB (IAN),WARDS: TB (IAN),WARDS: MW,WARDS: MW,,
+Second Floor Registrar (#1238),Reza,Reza,Reza,Reza,Reza,,
+"Second Floor Juniors (#1208, 1138)","['Nicola', 'Thomas', 'Tanya', 'Rohini']","['Thomas', 'Tanya', 'Rohini']","['Tanya', 'Rohini']","['Thomas', 'Tanya', 'Rohini']","['Thomas', 'Rohini']",['Rohini'],['Rohini']
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,
+Afternoon Clinic : Reg,,,General : no reg,Fast track : no reg,,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,,,,,,
+Nights,['Chloe'],['Chloe'],['Chloe'],['Chloe'],,,
+Zero Days,,,,,"['Carl', 'Chloe']",,
+Annual Leave,"['LYH', 'Shaz']","['LYH', 'Shaz']","['LYH', 'Shaz']","['LYH', 'Shaz']","['LYH', 'Shaz', 'Tanya']",,
+Study Leave,['Carl'],['Carl'],"['Chris', 'Carl', 'Nicola', 'Thomas']","['Carl', 'Sarah']",,,
