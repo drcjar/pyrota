@@ -1,0 +1,16 @@
+,2016-09-19,2016-09-20,2016-09-21,2016-09-22,2016-09-23,2016-09-24,2016-09-25,2016-09-26,2016-09-27,2016-09-28,2016-09-29,2016-09-30,2016-10-01,2016-10-02
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,MW (LYH),MW (LYH),MW (LYH),WO,WO,WO,WO,WO,WO,WO,WO,WO,,
+First Floor Registrar (#1028),Carl(on-call),Carl(post-take),Carl,Carl,Carl(on-call),Carl(post-take),Carl(on-call),Carl(post-take),,Carl,Carl(on-call),Carl(post-take),,
+"First Floor Juniors (#1656, 1016)","['Louis', 'Sommer']","['Louis', 'Chinonso(post-take)', 'Ved', 'Anne(on-call)']","['Chinonso', 'Ved', 'Anne(post-take)']","['Sommer', 'Ved']","['Louis', 'Chinonso', 'Ved(on-call)']","['Louis', 'Ved(post-take)']","['Louis', 'Ved(on-call)']","['Jennifer', 'Louis(post-take)', 'Ved(post-take)']","['Jennifer', 'Louis', 'Sommer(on-call)']","['Louis', 'Sommer(post-take)']","['Jennifer', 'Louis', 'Ernest(on-call)']","['Jennifer', 'Louis(post-take)', 'Ernest(post-take)']",,
+Manvers Consultant,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,,,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,,
+Second Floor Registrar (#1238),Chris,Chris,,Chris,Chris,,,Chris,,Chris,Chris,Simon,Simon,
+"Second Floor Juniors (#1208, 1138)","['Jennifer', 'Chinonso', 'Miriam']","['Jennifer', 'Miriam']","['Jennifer', 'Sommer', 'Miriam', 'Ernest']","['Louis', 'Miriam', 'Ernest', 'Anne']","['Jennifer', 'Ernest', 'Anne']",,,"['Chinonso', 'Sommer']",['Ernest'],"['Chinonso', 'Ernest']","['Chinonso', 'Sommer']","['Chinonso', 'Sommer', 'Ved']",['Jennifer'],['Jennifer']
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : SHO,MDT : no reg,,,,ILD : no reg,TB : no reg,COPD/GEN : SHO,MDT : no reg,,,
+Afternoon Clinic : Reg,Elkin : SHO,,General : no reg,Fast track : no reg,Ross : Pleural list,,,Elkin : SHO,,General : no reg,Fast track : no reg,Ross : Pleural list,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,,Simon,,,,,Simon,,Simon,Simon,,,
+Nights,,,,,,,,['Anne'],['Anne'],['Anne'],['Anne'],,,
+Zero Days,,,['Louis'],,['Sommer'],,,['Ernest'],['Ved'],['Ved'],['Ved'],"['Miriam', 'Anne']",,
+Annual Leave,"['MB', 'Simon', 'Reza', 'Ved', 'Ernest', 'Anne']","['MB', 'Simon', 'Reza', 'Ernest']","['MB', 'Reza']","['MB', 'Simon', 'Reza']","['MB', 'Simon', 'Reza', 'Miriam']",,,"['MB', 'Reza', 'Miriam']","['MB', 'Reza', 'Miriam']","['MB', 'Reza', 'Jennifer', 'Miriam']","['MB', 'Reza', 'Miriam']","['MB', 'Chris']",,
+Study Leave,['Anne'],['Sommer'],"['SB', 'Chris']","['Jennifer', 'Chinonso']",['SB'],,,,"['SB', 'Chris', 'Carl', 'Simon', 'Chinonso']",,,,,

@@ -1,0 +1,16 @@
+,2016-05-23,2016-05-24,2016-05-25,2016-05-26,2016-05-27,2016-05-28,2016-05-29
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,LYH,LYH,WO,WO,WO,,
+First Floor Registrar (#1028),Simon,Simon,Chris(on-call),Chris(post-take),Chris,,
+"First Floor Juniors (#1656, 1016)","['Becky', 'Kate(on-call)', 'Oliver']","['Becky', 'Kate(post-take)', 'Oliver']","['Dana', 'Becky', 'Kate(on-call)', 'Oliver']","['Dana', 'Becky', 'Mike(on-call)', 'Kate(post-take)', 'Oliver']","['Mike', 'Kate(on-call)']",['Kate'],['Kate']
+Manvers Consultant,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,,
+Second Floor Registrar (#1238),Reza,Reza,Reza,Reza,Reza,,
+"Second Floor Juniors (#1208, 1138)","['Defne', 'Despoina']","['Defne', 'Despoina']","['Defne', 'Despoina']","['Defne', 'Despoina']","['Defne', 'Despoina']",['Mike'],['Mike']
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,
+Afternoon Clinic : Reg,,,General : no reg,Fast track : no reg,,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,,,,,,
+Nights,['Bing'],['Bing'],['Bing'],['Bing'],"['Carl', 'Dana']","['Carl', 'Dana']","['Carl', 'Dana']"
+Zero Days,"['Chris', 'Carl', 'Dana']","['Chris', 'Carl', 'Dana']",,,"['Becky', 'Oliver', 'Bing']",,
+Annual Leave,['CR'],['CR'],"['CR', 'Carl', 'Mike']","['CR', 'Carl']",['CR'],,
+Study Leave,['Mike'],['Mike'],,,,,

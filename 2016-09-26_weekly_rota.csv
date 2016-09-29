@@ -1,0 +1,16 @@
+,2016-09-26,2016-09-27,2016-09-28,2016-09-29,2016-09-30,2016-10-01,2016-10-02,2016-10-03,2016-10-04,2016-10-05,2016-10-06,2016-10-07,2016-10-08,2016-10-09
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,WO,WO,WO,WO,WO,,,SB,SB,SB,SB,SB,SB,SB
+First Floor Registrar (#1028),Carl(post-take),,Carl,Carl(on-call),Carl(post-take),,,Carl,Simon,Simon,Simon,Simon,Chris(on-call),Chris(post-take)
+"First Floor Juniors (#1656, 1016)","['Jennifer', 'Louis(post-take)', 'Ved(post-take)']","['Jennifer', 'Louis', 'Sommer(on-call)']","['Louis', 'Sommer(post-take)']","['Jennifer', 'Louis', 'Ernest(on-call)']","['Jennifer', 'Louis(post-take)', 'Ernest(post-take)']",,,['Ernest'],"['Jennifer', 'Sommer(post-take)', 'Anne']","['Jennifer', 'Miriam', 'Anne']","['Miriam', 'Ernest']","['Jennifer', 'Miriam(post-take)', 'Anne']",['Chinonso'],['Chinonso']
+Manvers Consultant,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,WARDS: IC,,,WARDS: PM,WARDS: PM,WARDS: PM,WARDS: PM,WARDS: PM,,
+Second Floor Registrar (#1238),Chris,,Chris,Chris,Simon,Simon,,Carl,Chris,Chris,Chris,Chris,,
+"Second Floor Juniors (#1208, 1138)","['Chinonso', 'Sommer']",['Ernest'],"['Chinonso', 'Ernest']","['Chinonso', 'Sommer']","['Chinonso', 'Sommer', 'Ved']",['Jennifer'],['Jennifer'],"['Chinonso', 'Sommer']","['Chinonso', 'Ernest']","['Chinonso', 'Sommer', 'Ved']","['Jennifer', 'Ved']","['Chinonso', 'Sommer', 'Ved']",['Ved'],['Ved']
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : SHO,MDT : no reg,,,,ILD : no reg,TB : no reg,COPD/GEN : SHO,MDT : no reg,,,
+Afternoon Clinic : Reg,Elkin : SHO,,General : no reg,Fast track : no reg,Ross : Pleural list,,,Elkin : SHO,,General : no reg,Fast track : no reg,Ross : Pleural list,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,Simon,,Simon,Simon,,,,,,,,,,
+Nights,['Anne'],['Anne'],['Anne'],['Anne'],,,,"['Chris', 'Louis']","['Carl', 'Louis']","['Carl', 'Louis']","['Carl', 'Louis']",,,
+Zero Days,['Ernest'],['Ved'],['Ved'],['Ved'],"['Miriam', 'Anne']",,,"['Simon', 'Jennifer', 'Ved', 'Anne']",,,,"['Carl', 'Louis']",,
+Annual Leave,"['MB', 'Reza', 'Miriam']","['MB', 'Reza', 'Miriam']","['MB', 'Reza', 'Jennifer', 'Miriam']","['MB', 'Reza', 'Miriam']","['MB', 'Chris']",,,"['OMK', 'Reza', 'Miriam']","['OMK', 'Miriam', 'Ved']",['OMK'],['OMK'],"['OMK', 'Ernest']",,
+Study Leave,,"['SB', 'Chris', 'Carl', 'Simon', 'Chinonso']",,,,,,,,,"['Chinonso', 'Sommer', 'Anne']",['MB'],,

@@ -1,0 +1,16 @@
+,2016-06-27,2016-06-28,2016-06-29,2016-06-30,2016-07-01,2016-07-02,2016-07-03,2016-07-04,2016-07-05,2016-07-06,2016-07-07,2016-07-08,2016-07-09,2016-07-10
+Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+First Floor Consultant,IC,IC,IC,IC,IC,,,CR (SE),CR (SE),CR (SE),CR (SE),CR (SE),,
+First Floor Registrar (#1028),,,Simon(on-call),Simon(post-take),,,,Carl,Carl(on-call),Carl(post-take),Simon,Simon,,
+"First Floor Juniors (#1656, 1016)","['Becky', 'Mike', 'Bing(on-call)']","['Mike', 'Bing(post-take)']","['Defne', 'Mike', 'Bing(on-call)']","['Defne', 'Becky(post-take)', 'Mike', 'Bing(post-take)']","['Mike', 'Bing(on-call)']",['Bing'],['Bing'],"['Becky', 'Bing(post-take)']",['Dana'],"['Dana', 'Becky(post-take)']",['Becky'],"['Dana', 'Becky']",['Mike'],['Mike']
+Manvers Consultant,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,,,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,WARDS: MW,,
+Second Floor Registrar (#1238),,,,,,,,Chris,Chris,Chris,Chris,Chris,,
+"Second Floor Juniors (#1208, 1138)",,,['Becky'],,['Kate'],['Kate'],['Kate'],"['Mike', 'Oliver']","['Mike', 'Kate']","['Mike', 'Kate']","['Mike', 'Kate']","['Mike', 'Kate']",,
+Morning Clinic : Reg,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,,ILD : no reg,TB : no reg,COPD/GEN : no reg,MDT : no reg,,,
+Afternoon Clinic : Reg,,,General : no reg,Fast track : no reg,,,,,,General : no reg,Fast track : no reg,,,
+Bronchoscopy : Reg,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,,Han/Bloch : no reg,Elkin/Counihan : no reg,Berry/Ross : no reg,Wick : no reg,Kon : no reg,,
+Clinic Registrar,,,,,,,,,,,,,,
+Nights,['Oliver'],['Oliver'],['Oliver'],['Oliver'],"['Reza', 'Defne']","['Reza', 'Defne']","['Reza', 'Defne']",['Despoina'],['Despoina'],['Despoina'],['Despoina'],['Oliver'],['Oliver'],['Oliver']
+Zero Days,"['Reza', 'Defne']","['Reza', 'Defne']",,,"['Dana', 'Oliver']",,,"['Reza', 'Defne', 'Kate']","['Reza', 'Defne', 'Bing']","['Reza', 'Defne', 'Bing']","['Reza', 'Defne', 'Oliver', 'Bing']","['Carl', 'Reza', 'Defne', 'Despoina', 'Bing']",,
+Annual Leave,"['Chris', 'Dana']","['Chris', 'Dana']","['Chris', 'Dana']","['Chris', 'Reza', 'Dana']","['Chris', 'Becky']",,,['Dana'],['Oliver'],['Oliver'],['Carl'],,,
+Study Leave,,,"['Carl', 'Reza']",,,,,['Simon'],"['Simon', 'Becky']",,['Dana'],,,
