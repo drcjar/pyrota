@@ -28,6 +28,6 @@ six==1.9.0
 statsmodels==0.6.1
 terminado==0.5
 tornado==4.2
-urllib3==1.10.4
+urllib3==1.26.5
 xlrd==0.9.3
 xlwt==1.0.0
