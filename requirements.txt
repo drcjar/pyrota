@@ -2,7 +2,7 @@ backports.ssl-match-hostname==3.4.0.2
 BeautifulSoup==3.2.1
 beautifulsoup4==4.4.0
 BlinkStick==1.1.8
-certifi==2015.4.28
+certifi==2022.12.7
 functools32==3.2.3.post1
 ipython==3.1.0
 Jinja2==2.7.3
